@@ -20,7 +20,7 @@ export default function Contacts({navigation}){
                         profissao:'Carpinteiro',
                         email:'alexsousa@carpintaria.com.br'
                     })}
-                    >Clique para mais informações</Text>
+                    >Clique para mais informações...</Text>
             </View>
             <View style={{marginTop:30}}>
                 <Text>Nome: Henry Sousa</Text>
@@ -35,7 +35,7 @@ export default function Contacts({navigation}){
                         profissao:'Engenheiro de Software',
                         email:'henrysousa@toptop.com.br'
                     })}
-                    >Clique para mais informações</Text>
+                    >Clique para mais informações...</Text>
             </View>         
         </View>
     )
